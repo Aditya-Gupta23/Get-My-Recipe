@@ -192,6 +192,8 @@ body::-webkit-scrollbar-track{
     .head{
         flex-direction: coloumn;
     }
-
+    .recipeDetails{
+        width: 80%;
+    }
 
 }
